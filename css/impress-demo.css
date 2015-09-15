@@ -344,9 +344,15 @@ ul{
     margin-left: 350px;
 }
 
+#objective h1{
+    font-size: 60px;
+}
+#objective h2{
+    font-size: 50px;
+}
+
 #objective h3{
     font-size: 40px;
-
 }
 
 #comunicacion2 ul li.substep{
